@@ -16,6 +16,8 @@ Beecrowd_*/Properties/
 *.csproj
 *.sln
 
-# Ignore .vs directories and the .gitignore file itself
+# Ignore .vs directories
 .vs/
-.gitignore
+
+# Ignore the .gitignore file itself
+/.gitignore
